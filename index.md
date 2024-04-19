@@ -13,3 +13,10 @@
 ```
 $ echo Hello Rengoku
 ```
+
+## Creating Tasks lists
+
+- [x] Get up off the bed
+- [ ] Brush teeths
+- [x] Making a meal
+- [x] Start working
